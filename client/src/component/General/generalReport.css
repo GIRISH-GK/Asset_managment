@@ -1,0 +1,36 @@
+.ma{
+    text-align: center;
+   padding-bottom: 15px;
+   margin-left: 500px;
+   color: black;
+}
+.general{
+    background-image: url("https://cdn.corporatefinanceinstitute.com/assets/asset-management.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 568px;
+}
+
+.col-md-7>table{
+    justify-content: center;
+    margin-left: 300px;
+    margin-top:20px;
+}
+
+#b{
+    width: 8%;
+    margin-left: 1140px;
+    margin-bottom: 1px;
+}
+ #t{
+    width:100px;
+    margin-right:5px ;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    text-align: center; 
+
+}
+
+.btn-danger{
+    text-align: center;
+}

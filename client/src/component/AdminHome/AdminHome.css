@@ -1,0 +1,14 @@
+.home{
+    background-image: url("https://cdn.corporatefinanceinstitute.com/assets/asset-management.jpeg");
+     background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 569px;
+}
+
+.h2{
+    color: black;
+    text-shadow: 2px 2px rgb(102, 20, 255);
+    padding-left: 5px;
+    text-align: center;
+    
+}

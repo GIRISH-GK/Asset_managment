@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body{
+  background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crowcanyon.com%2Fasset-management%2Ffive-features-to-look-for-in-an-it-asset-management-system%2F&psig=AOvVaw187WUSVLUcmDyx9Ag4X5HM&ust=1607145904116000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi_66jvtO0CFQAAAAAdAAAAABAD") ;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+#Title{
+  width: 320px;
+}
+.form{
+  margin-bottom: 5px;
+}
